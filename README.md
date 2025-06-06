@@ -4,6 +4,9 @@ A Model Context Protocol (MCP) server implementation for weather data services b
 
 **NOTE**: This demo returns ***mock*** weather data and ***not real data***.  To return live data is an exercise for the reader.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mitchallen)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mitchallen)
+
 ## 🌤️ Overview
 
 This project implements a weather server using the Model Context Protocol (MCP) SDK, providing standardized access to weather information through a well-defined interface.
