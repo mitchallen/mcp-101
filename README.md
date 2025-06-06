@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server implementation for weather data services built with TypeScript.
 
+**NOTE**: This demo returns ***mock*** weather data and ***not real data***.  To return live data is an exercise for the reader.
+
 ## 🌤️ Overview
 
 This project implements a weather server using the Model Context Protocol (MCP) SDK, providing standardized access to weather information through a well-defined interface.
